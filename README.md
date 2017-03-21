@@ -3,24 +3,29 @@ Tool for creating your instant trailer.
 
 # Synopsis
 InstantTrailer is a tool that creates new trailers based on existing ones.
-It scrapes footage from different movie trailers, cuts them up into small parts and merges them back together.
+It cuts scraped clips into small parts and merges them back together
+(you can also use other footage than trailers but we decided to go with this type of video)
+
+
+To use this tool you need to already have your own database of videoclips.
+Different applications provide this possibility. 
+We used 4K Video Downloader to do this. 
+You can download 4K Video Downloader here: 
+https://www.4kdownload.com/nl/
 
 
 # Code Example
 The tool exists of three parts:
 
 
---> scraping footage from YouTube
+--> scraped footage from YouTube
 
 --> cutting the footage into parts
 
 --> merging the parts into a new trailer
 
 
-Therefore you need two different codes to achieve this. 
 
-The code for scraping footage from YouTube can be found in the folder 'code examples'.
-The code for cutting and merging the footage can be found in the folder ...
 
 
 # Motivation
