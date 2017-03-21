@@ -17,8 +17,7 @@ The tool exists of two parts:
 
 Therefore you need two different codes to achieve this. 
 
-The code for scraping footage from YouTube can be found in the folder 'code examples'
-
+The code for scraping footage from YouTube can be found in the folder 'code examples'.
 The code for cutting and merging the footage can be found in the folder ...
 
 
