@@ -7,12 +7,14 @@ It scrapes footage from different movie trailers, cuts them up into small parts 
 
 
 # Code Example
-The tool exists of two parts:
+The tool exists of three parts:
 
 
 --> scraping footage from YouTube
 
---> cutting and merging the footage 
+--> cutting the footage into parts
+
+--> merging the parts into a new trailer
 
 
 Therefore you need two different codes to achieve this. 
