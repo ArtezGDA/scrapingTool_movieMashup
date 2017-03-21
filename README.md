@@ -5,7 +5,6 @@ Tool for creating your personal instant trailer.
 InstantTrailer is a tool that creates new trailers based on existing ones.
 It scrapes footage from different movie trailers, cuts them up into small parts and merges them back together.
 
-(At the top of the file there should be a short introduction and/ or overview that explains what the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.))
 
 # Code Example
 The tool exists of two parts:
