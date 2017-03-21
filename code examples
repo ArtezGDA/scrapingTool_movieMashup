@@ -1,3 +1,25 @@
+####composing videos#####
+
+video_index=0
+cap=cv2.VideoCapture(video[srt_time[video_index]])
+width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+fps = cap.get(cv2.CAP_PROP_FPS)
+count=cap.get(cv2.CAP_PROP_FRAME_COUNT)
+fourcc = cv2.VideoWriter_fourcc(*'DIVX')
+out = cv2.VideoWriter("Output.avi", fourcc, fps, (width, height), True)
+while(cap.isOpened()):
+    ret,frame=cap.read()
+    if frame is None:
+        print "end of video " + str(video_index) + " .. next one now"
+        video_index += 1
+        if video_index >= len(videoList):
+            break
+        cap = cv2.VideoCapture(video[srt_time[video_index]])
+        ret, frame = cap.read()
+    out.write(frame)
+
+
 ####using ffmpeg to merge two videos#####
 
 
