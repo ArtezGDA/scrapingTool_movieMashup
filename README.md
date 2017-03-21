@@ -28,7 +28,6 @@ That's why we decided to make this MovieMashup tool.
 Experimenting with cutting video clips and combining them is something that has already been done by a lot of people, but we're looking for a way to make this a whole lot easier and more interesting. 
 We were fascinated by the way movies and movietrailers are built up: they all seem to have the same buildup, consisting of about 8 parts. This tool can be seen as a way to ridicule the hollywood industry and at the same time create interesting video mashups.
 
-(A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.)
 
 # Installation
 (Provide code examples and explanations of how to get the project.)
