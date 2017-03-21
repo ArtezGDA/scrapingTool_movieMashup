@@ -1,5 +1,5 @@
 # InstantTrailer
-Tool for creating your personal instant trailer.
+Tool for creating your instant trailer.
 
 # Synopsis
 InstantTrailer is a tool that creates new trailers based on existing ones.
