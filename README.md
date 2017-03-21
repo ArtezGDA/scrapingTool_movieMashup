@@ -1,9 +1,9 @@
-# MovieMashup
-Tool for Movie Mashups
+# InstantTrailer
+Tool for creating your personal instant trailer.
 
 # Synopsis
-MovieMashup is a tool created to create a new, randomized video out of existing footage. 
-From an existing database of video footage it will merge the files together into a new video. 
+InstantTrailer is a tool that creates new trailers based on existing ones.
+It scrapes footage from different movie trailers, cuts them up into small parts and merges them back together.
 
 (At the top of the file there should be a short introduction and/ or overview that explains what the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.))
 
