@@ -11,9 +11,12 @@ It scrapes footage from different movie trailers, cuts them up into small parts 
 The tool exists of two parts:
 
 --> scraping footage from YouTube
+
 --> cutting and merging the footage 
 
 Therefore you need two different codes to achieve this. 
+
+The code for scraping footage from YouTube can be found in the folder 'code examples'
 
 
 (Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.)
