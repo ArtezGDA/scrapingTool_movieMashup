@@ -11,7 +11,7 @@ We used 4K Video Downloader to do this.
 You can download 4K Video Downloader yourself here: 
 https://www.4kdownload.com/nl/
 
-![img](http://imgur.com/a/kXUmb)
+![img](http://i.imgur.com/DIAGRAM.jpg)
 
 
 # Code Example
