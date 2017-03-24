@@ -11,6 +11,8 @@ We used 4K Video Downloader to do this.
 You can download 4K Video Downloader yourself here: 
 https://www.4kdownload.com/nl/
 
+![Alt text](/Users/annedebekker/Documents/ArtEZ_2/Digital_Media/ScrapingTool?raw=true "Diagram")
+
 
 # Code Example
 To achieve the Instant Trailer, the following steps need to happen:
@@ -25,7 +27,6 @@ To achieve the Instant Trailer, the following steps need to happen:
 
 Our tool provides the last two steps. The only thing you need to do is create your own set of trailers from the database that we provide.
 
-
 # Motivation
 As Graphic Designers we wanted to develop our own skills and learn how to build our own tools. This way we can create applications or tools that suit our own specific workflow, in contrary to what most existing applications do: they're designed for a huge audience and therefore are made for the average user. This average user doesn't necessarily have to be you. That's why it's very convenient for a designer to be able to make their own tools that optimize their own specific workflow. 
 That's why we decided to make this MovieMashup tool. 
@@ -37,14 +38,6 @@ We were fascinated by the way movies and movietrailers are built up: they all se
 # Installation
 (Provide code examples and explanations of how to get the project.)
 
-# API Reference
-(Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.)
-
 # Tests
 (Describe and show how to run the tests with code examples.)
 
-# Contributors
-(Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.)
-
-# License
-(A short snippet describing the license (MIT, Apache, etc.)
