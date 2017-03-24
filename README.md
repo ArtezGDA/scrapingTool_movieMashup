@@ -11,7 +11,7 @@ We used 4K Video Downloader to do this.
 You can download 4K Video Downloader yourself here: 
 https://www.4kdownload.com/nl/
 
-![Alt text](/Users/annedebekker/Documents/ArtEZ_2/Digital_Media/ScrapingTool?raw=true "Diagram")
+![img](http://imgur.com/a/kXUmb)
 
 
 # Code Example
