@@ -11,8 +11,7 @@ We used 4K Video Downloader to do this.
 You can download 4K Video Downloader yourself here: 
 https://www.4kdownload.com/nl/
 
-![alt tag](http://imgur.com/a/T039J)
-
+[IMG]http://i65.tinypic.com/6rht9z.jpg[/IMG]
 
 # Code Example
 To achieve the Instant Trailer, the following steps need to happen:
