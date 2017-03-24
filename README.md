@@ -11,7 +11,7 @@ We used 4K Video Downloader to do this.
 You can download 4K Video Downloader yourself here: 
 https://www.4kdownload.com/nl/
 
-<a href="http://nl.tinypic.com?ref=6rht9z" target="_blank"><img src="http://i65.tinypic.com/6rht9z.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://nl.tinypic.com?ref=6rht9z" target="_blank"><img src="http://i65.tinypic.com/6rht9z.jpg" border="0" alt="Diagram"></a>
 
 # Code Example
 To achieve the Instant Trailer, the following steps need to happen:
