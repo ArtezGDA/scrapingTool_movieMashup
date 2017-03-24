@@ -11,7 +11,7 @@ We used 4K Video Downloader to do this.
 You can download 4K Video Downloader yourself here: 
 https://www.4kdownload.com/nl/
 
-![img](http://i.imgur.com/DIAGRAM.jpg)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/eUtFU"><a href="//imgur.com/eUtFU"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 # Code Example
