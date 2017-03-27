@@ -29,6 +29,7 @@ Screenshots of the InstantTrailer
 
 # Examples
 How the tool works:
+
 <a href="http://nl.tinypic.com?ref=6rht9z" target="_blank"><img src="http://i65.tinypic.com/6rht9z.jpg" border="0" alt="Diagram"></a>
 
 # Motivation
