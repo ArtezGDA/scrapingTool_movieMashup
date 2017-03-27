@@ -37,3 +37,26 @@ That's why we decided to make this MovieMashup tool.
 
 Experimenting with cutting video clips and combining them is something that has already been done by a lot of people, but we're looking for a way to make this a whole lot easier and more interesting. 
 We were fascinated by the way movies and movietrailers are built up: they all seem to have the same buildup, consisting of about 8 parts. This tool can be seen as a way to ridicule the hollywood industry and at the same time create interesting video mashups.
+
+# License 
+MIT License
+
+Copyright (c) 2017 Graphic Design Arnhem at ArtEZ Academy
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
