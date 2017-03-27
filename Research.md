@@ -8,10 +8,26 @@ Ffmpeg is an open source command line audio / video converter. ffmpeg uses comma
 https://www.codeproject.com/Articles/209774/A-VIDEO-CONVERTER-WITH-VISUAL-BASIC-NET
 
 
-## All Trailers are the Same
+## All Trailers are the Same 1.0
 As the summer movie season approaches and you see many trailers in the theater. Remember, secretly they are all the same. This YouTube video compares a lot of trailers to each other and divides the overall trailer into a few different parts (these can be found on the main page of this github page!)
 
 https://www.youtube.com/watch?v=Pc71YvWG0GQ
+
+
+## All Trailers are the Same 2.0
+What are the different parts that together form the average Hollywood Trailer? According to the video above, there are 11 steps you can find in almost every (action movie) trailer:
+
+1. Establishing shot of a city
+2. BAM!
+3. Mysterious, cryptic and vague lines
+4. Make the characters look cool
+5. Build up to silence
+6. BAM!
+7. Action montage (with dramatic music and possibly with powerful and/or inspiring dialogue)
+8. End montage with another hard cut to silence
+9. Title
+10. Clever and/or funny end tag
+11. Release date
 
 
 ## Ghostbusters (2016) vs Pixels - Trailer Composition
