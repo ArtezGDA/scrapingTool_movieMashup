@@ -22,7 +22,17 @@ To achieve the Instant Trailer, the following steps need to happen:
 --> merge the parts into a new trailer
 
 
-Our tool provides the last two steps. The only thing you need to do is create your own set of trailers from the database that we provide.
+Our tool would provide the last two steps. You are able to choose your own set of trailers out of the database that we provide. From here on, you should be able to cut the footage into parts and later merge the parts into a new trailer, with code that we provide. You can find all our code examples in the file 'CodeResearch'. 
+
+It is very convenient to have the software project FFMPEG on your computer already. As a command line tool you can let ffmpeg edit video files in many different ways, like for example:
+1. Cut video file into a smaller clip
+2. Split a video into multiple parts
+3. Convert video from one format to another
+4. Join (concatenate) video files
+5. Mute a video (Remove the audio component)
+6. Extract the audio from video
+And much more.
+How to get your hands on FFMPEG, is explained in the 'Research.md' file. Here you can also find some convenient commands to help you out. 
 
 # Screenshots
 Screenshots of the InstantTrailer
