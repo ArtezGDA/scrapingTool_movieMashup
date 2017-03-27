@@ -70,8 +70,6 @@ yy.download_all_videos(dl_limit =200) #number of videos to download.
 ##############2###############
 
 
-
-
 import re, os, sys, math
 from pattern.web import URL, DOM, plaintext, extension
 import pafy
