@@ -1,110 +1,33 @@
-####composing videos#####
+# Interesting research on the topic of trailers and videoscraping
 
-video_index=0
-cap=cv2.VideoCapture(video[srt_time[video_index]])
-width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
-height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
-fps = cap.get(cv2.CAP_PROP_FPS)
-count=cap.get(cv2.CAP_PROP_FRAME_COUNT)
-fourcc = cv2.VideoWriter_fourcc(*'DIVX')
-out = cv2.VideoWriter("Output.avi", fourcc, fps, (width, height), True)
-while(cap.isOpened()):
-    ret,frame=cap.read()
-    if frame is None:
-        print "end of video " + str(video_index) + " .. next one now"
-        video_index += 1
-        if video_index >= len(videoList):
-            break
-        cap = cv2.VideoCapture(video[srt_time[video_index]])
-        ret, frame = cap.read()
-    out.write(frame)
+## A Video Converter in Visual Basic .NET
+This is a simple video converter developed with .NET while playing with ffmpeg.
+
+Ffmpeg is an open source command line audio / video converter. ffmpeg uses command line arguments for its conversion and this is what we are going to do with our .NET application. We will execute ffmpeg from our application and send these parameters to ffmpeg without displaying the command line window.
+
+https://www.codeproject.com/Articles/209774/A-VIDEO-CONVERTER-WITH-VISUAL-BASIC-NET
 
 
-####using ffmpeg to merge two videos#####
+## All Trailers are the Same
+As the summer movie season approaches and you see many trailers in the theater. Remember, secretly they are all the same. This YouTube video compares a lot of trailers to each other and divides the overall trailer into a few different parts (these can be found on the main page of this github page!)
+
+https://www.youtube.com/watch?v=Pc71YvWG0GQ
 
 
-ffmpeg -i left.mp4 -i right.mp4 -filter_complex \
-"[0:v][1:v]hstack=inputs=2[v]; \
- [0:a][1:a]amerge[a]" \
--map "[v]" -map "[a]" -ac 2 output.mp4
+## Ghostbusters (2016) vs Pixels - Trailer Composition
+Another comparison between two trailers.
+
+https://www.youtube.com/watch?v=eDLOO2SZdvY
 
 
-####using ffmpeg to merge two videos 2#####
+## Download specific Parts of YouTube
+Download specific parts of youtube, online videos in many formats. This also works for other online video's (Vimeo, Dailymotion, etc.)
+
+http://www.snaphow.com/4910/download-specific-parts-of-youtube-online-videos-in-many-formats/
+http://www.clipconverter.cc/
 
 
-ffmpeg \
-  -i input1.mp4 \
-  -i input2.mp4 \
-  -filter_complex '[0:v]pad=iw*2:ih[int];[int][1:v]overlay=W/2:0[vid]' \
-  -map [vid] \
-  -c:v libx264 \
-  -crf 23 \
-  -preset veryfast \
-  output.mp4
+## How to Scrape and Export Video Information from YouTube
+Here’s how to scrape & export video information from YouTube without buying sketchy blackhat scraper software.
 
-
-
-################1################
-
-
-
-from youtube_search_and_download import YouTubeHandler
-search_key = 'chinese top ktv' #keywords
-yy = YouTubeHandler(search_key)
-yy.download_as_audio =1 # 1- download as audio format, 0 - download as video
-yy.set_num_playlist_to_extract(5) # number of playlist to download
-####composing videos#####
-
-video_index=0
-cap=cv2.VideoCapture(video[srt_time[video_index]])
-width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
-height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
-fps = cap.get(cv2.CAP_PROP_FPS)
-count=cap.get(cv2.CAP_PROP_FRAME_COUNT)
-fourcc = cv2.VideoWriter_fourcc(*'DIVX')
-out = cv2.VideoWriter("Output.avi", fourcc, fps, (width, height), True)
-while(cap.isOpened()):
-    ret,frame=cap.read()
-    if frame is None:
-        print "end of video " + str(video_index) + " .. next one now"
-        video_index += 1
-        if video_index >= len(videoList):
-            break
-        cap = cv2.VideoCapture(video[srt_time[video_index]])
-        ret, frame = cap.read()
-    out.write(frame)
-
-
-####using ffmpeg to merge two videos#####
-
-
-ffmpeg -i left.mp4 -i right.mp4 -filter_complex \
-"[0:v][1:v]hstack=inputs=2[v]; \
- [0:a][1:a]amerge[a]" \
--map "[v]" -map "[a]" -ac 2 output.mp4
-
-
-####using ffmpeg to merge two videos 2#####
-
-
-ffmpeg \
-  -i input1.mp4 \
-  -i input2.mp4 \
-  -filter_complex '[0:v]pad=iw*2:ih[int];[int][1:v]overlay=W/2:0[vid]' \
-  -map [vid] \
-  -c:v libx264 \
-  -crf 23 \
-  -preset veryfast \
-  output.mp4
-
-
-
-################1################
-
-
-
-from youtube_search_and_download import YouTubeHandler
-search_key = 'chinese top ktv' #keywords
-yy = YouTubeHandler(search_key)
-yy.download_as_audio =1 # 1- download as audio format, 0 - download as video
-yy.set_num_playlist_to_extract(5) # number of playlist to download
+https://www.shivarweb.com/4277/scrape-export-video-information-youtube/
