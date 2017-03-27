@@ -7,9 +7,6 @@ It cuts scraped clips into small parts and merges them back together.
 
 
 To use this tool we provide you with an existing database of videoclips, from where you can decide which ones you want to use.
-We used 4K Video Downloader to do this. 
-You can download 4K Video Downloader yourself here: 
-https://www.4kdownload.com/nl/
 
 # Installation
 To achieve the Instant Trailer, the following steps need to happen:
@@ -23,6 +20,10 @@ To achieve the Instant Trailer, the following steps need to happen:
 
 
 Our tool would provide the last two steps. You are able to choose your own set of trailers out of the database that we provide. From here on, you should be able to cut the footage into parts and later merge the parts into a new trailer, with code that we provide. You can find all our code examples in the file 'CodeResearch'. 
+
+
+Do you like to know how to scrape video's from YouTube? --> Research.md
+
 
 It is very convenient to have the software project FFMPEG on your computer already. As a command line tool you can let ffmpeg edit video files in many different ways, like for example:
 1. Cut video file into a smaller clip
