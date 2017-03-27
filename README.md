@@ -31,7 +31,10 @@ It is very convenient to have the software project FFMPEG on your computer alrea
 4. Join (concatenate) video files
 5. Mute a video (Remove the audio component)
 6. Extract the audio from video
+
 And much more.
+
+
 How to get your hands on FFMPEG, is explained in the 'Research.md' file. Here you can also find some convenient commands to help you out. 
 
 # Screenshots
