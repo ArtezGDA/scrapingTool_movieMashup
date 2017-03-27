@@ -8,6 +8,7 @@ It cuts scraped clips into small parts and merges them back together.
 
 To use this tool we provide you with an existing database of videoclips, from where you can decide which ones you want to use.
 
+
 # Installation
 To achieve the Instant Trailer, the following steps need to happen:
 
@@ -38,8 +39,10 @@ And much more.
 
 How to get your hands on FFMPEG, is explained in the 'Research.md' file. Here you can also find some convenient commands to help you out. 
 
+
 # Screenshots
 Screenshots of the InstantTrailer
+
 
 # Examples
 
@@ -51,11 +54,20 @@ Here a short diagram on how the InstantTrailer works:
 A more detailed description:
 
 ### 1
-First, data is collected from YouTube. This means every trailer we could find, downloaded by 4K Video Downloader
+First, data is collected from YouTube. This means every trailer we could find, downloaded by 4K Video Downloader.
 ### 2
-The downloaded data (trailers) are now being put in a database, where we can work from
+The downloaded data (trailers) are now being put in a database, where we can work from.
 ### 3
-Data from the database can now be imported to be cutted into small pieces. The length of an average 
+Data from the database can now be imported to be cutted into small pieces. The length of an average trailer is about 2 minutes and 30 seconds (more info on the trailer --> Research.md). The small pieces therefore will have to be about 15 seconds to create a new trailer (based on the 11 steps that an average trailer follows --> Research.md). 
+### 4
+The footage will now be cut into pieces.
+### 5
+The cut footage now needs to be imported to be merged together again. The small parts from different trailers will be merged together in an order that follows the 11 steps. This will create a new trailer. 
+### 6 
+The cut footage will now be merged into a new trailer. 
+### 7
+Your endresult! A new trailer is created. 
+
 
 # Motivation
 As Graphic Designers we wanted to develop our own skills and learn how to build our own tools. This way we can create applications or tools that suit our own specific workflow, in contrary to what most existing applications do: they're designed for a huge audience and therefore are made for the average user. This average user doesn't necessarily have to be you. That's why it's very convenient for a designer to be able to make their own tools that optimize their own specific workflow. 
