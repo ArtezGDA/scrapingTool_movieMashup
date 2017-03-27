@@ -31,3 +31,23 @@ http://www.clipconverter.cc/
 Here’s how to scrape & export video information from YouTube without buying sketchy blackhat scraper software.
 
 https://www.shivarweb.com/4277/scrape-export-video-information-youtube/
+
+## FFmpeg
+FFmpeg has always been a very experimental and developer-driven project. It is a key component in many multimedia projects and has new features added constantly. 
+Find the downloadlink for FFmpeg here:
+
+https://ffmpeg.org/download.html
+
+
+## Useful FFmpeg Commands
+Some options and examples of how you can use FFmpeg multimedia framework to perform various conversion procedures on audio and video files.
+
+https://www.labnol.org/internet/useful-ffmpeg-commands/28490/
+http://www.tecmint.com/ffmpeg-commands-for-video-audio-and-image-conversion-in-linux/
+
+
+# 4K Video Downloader
+With 4K Video Downloader you can download audio, video and subtitles from YouTube in high quality and as fast as your pc allows it. You can also convert the video to your iPad, iPhone or any other devide. Downloading the videos is easy; you only need to copy the URL and press "Paste URL". 
+
+https://www.4kdownload.com/nl/products/product-videodownloader
+
