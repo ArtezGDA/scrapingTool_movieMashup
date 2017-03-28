@@ -43,9 +43,19 @@ How to get your hands on FFmpeg, is explained in the 'Research.md' file. Here yo
 # Screenshots
 Screenshots of the InstantTrailer
 
-<a href="http://nl.tinypic.com?ref=29ux4dx" target="_blank"><img src="http://i64.tinypic.com/29ux4dx.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://nl.tinypic.com?ref=2r4j04y" target="_blank"><img src="http://i63.tinypic.com/2r4j04y.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-<a href="http://nl.tinypic.com?ref=28ri7h2" target="_blank"><img src="http://i67.tinypic.com/28ri7h2.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://nl.tinypic.com?ref=2hp7rww" target="_blank"><img src="http://i65.tinypic.com/2hp7rww.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://nl.tinypic.com?ref=4gru5d" target="_blank"><img src="http://i67.tinypic.com/4gru5d.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://nl.tinypic.com?ref=16h0ktk" target="_blank"><img src="http://i67.tinypic.com/16h0ktk.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://nl.tinypic.com?ref=20sxds9" target="_blank"><img src="http://i67.tinypic.com/20sxds9.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://nl.tinypic.com?ref=dze0wh" target="_blank"><img src="http://i63.tinypic.com/dze0wh.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+<a href="http://nl.tinypic.com?ref=57m1v" target="_blank"><img src="http://i63.tinypic.com/57m1v.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 
 # Examples
