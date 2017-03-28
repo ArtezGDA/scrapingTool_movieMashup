@@ -26,7 +26,7 @@ Our tool would provide the last two steps. You are able to choose your own set o
 Do you like to know how to scrape video's from YouTube? --> Research.md
 
 
-It is very convenient to have the software project FFMPEG on your computer already. As a command line tool you can let ffmpeg edit video files in many different ways, like for example:
+It is very convenient to have the software project FFmpeg on your computer already. As a command line tool you can let ffmpeg edit video files in many different ways, like for example:
 1. Cut video file into a smaller clip
 2. Split a video into multiple parts
 3. Convert video from one format to another
@@ -37,7 +37,7 @@ It is very convenient to have the software project FFMPEG on your computer alrea
 And much more.
 
 
-How to get your hands on FFMPEG, is explained in the 'Research.md' file. Here you can also find some convenient commands to help you out. 
+How to get your hands on FFmpeg, is explained in the 'Research.md' file. Here you can also find some convenient commands to help you out. 
 
 
 # Screenshots
