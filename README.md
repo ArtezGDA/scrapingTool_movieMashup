@@ -43,9 +43,9 @@ How to get your hands on FFmpeg, is explained in the 'Research.md' file. Here yo
 # Screenshots
 Screenshots of the InstantTrailer
 
-<a href="http://nl.tinypic.com?ref=16c15bd" target="_blank"><img src="http://i63.tinypic.com/16c15bd.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://nl.tinypic.com?ref=29ux4dx" target="_blank"><img src="http://i64.tinypic.com/29ux4dx.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-<a href="http://nl.tinypic.com?ref=1177fcw" target="_blank"><img src="http://i68.tinypic.com/1177fcw.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://nl.tinypic.com?ref=28ri7h2" target="_blank"><img src="http://i67.tinypic.com/28ri7h2.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 
 # Examples
